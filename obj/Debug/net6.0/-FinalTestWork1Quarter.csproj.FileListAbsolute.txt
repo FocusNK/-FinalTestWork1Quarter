@@ -1,0 +1,15 @@
+/home/focusnk/-FinalTestWork1Quarter/bin/Debug/net6.0/-FinalTestWork1Quarter
+/home/focusnk/-FinalTestWork1Quarter/bin/Debug/net6.0/-FinalTestWork1Quarter.deps.json
+/home/focusnk/-FinalTestWork1Quarter/bin/Debug/net6.0/-FinalTestWork1Quarter.runtimeconfig.json
+/home/focusnk/-FinalTestWork1Quarter/bin/Debug/net6.0/-FinalTestWork1Quarter.dll
+/home/focusnk/-FinalTestWork1Quarter/bin/Debug/net6.0/-FinalTestWork1Quarter.pdb
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.csproj.AssemblyReference.cache
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.GeneratedMSBuildEditorConfig.editorconfig
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.AssemblyInfoInputs.cache
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.AssemblyInfo.cs
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.csproj.CoreCompileInputs.cache
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.dll
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/refint/-FinalTestWork1Quarter.dll
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.pdb
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/-FinalTestWork1Quarter.genruntimeconfig.cache
+/home/focusnk/-FinalTestWork1Quarter/obj/Debug/net6.0/ref/-FinalTestWork1Quarter.dll
