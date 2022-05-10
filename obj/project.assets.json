@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/focusnk/.nuget/packages/": {}
+    "C:\\Users\\FocusNK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/focusnk/-FinalTestWork1Quarter/-FinalTestWork1Quarter.csproj",
+      "projectUniqueName": "C:\\GB\\-FinalTestWork1Quarter\\-FinalTestWork1Quarter.csproj",
       "projectName": "-FinalTestWork1Quarter",
-      "projectPath": "/home/focusnk/-FinalTestWork1Quarter/-FinalTestWork1Quarter.csproj",
-      "packagesPath": "/home/focusnk/.nuget/packages/",
-      "outputPath": "/home/focusnk/-FinalTestWork1Quarter/obj/",
+      "projectPath": "C:\\GB\\-FinalTestWork1Quarter\\-FinalTestWork1Quarter.csproj",
+      "packagesPath": "C:\\Users\\FocusNK\\.nuget\\packages\\",
+      "outputPath": "C:\\GB\\-FinalTestWork1Quarter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/focusnk/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\FocusNK\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/162/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
